@@ -1,6 +1,6 @@
-# LoginApp
+# UdacityPracticalQuizOne
 
-<p>This is a small demo application for UdacityPracticalQuizOne to test the knowledge on restoring the state of an activity on configuration changes or when the user restarts the app and on SharedPreferences to store the edittext values.</p>
+<p>This is a small login application for UdacityPracticalQuizOne to test the knowledge on saving the state of an activity on configuration changes or when the user restarts the app and on SharedPreferences to store the edittext values.</p>
 
 ### Screenshots
 <br><br>
